@@ -1,0 +1,46 @@
+{
+
+    "info" : "This is a soundpack for the game TagPro, to use with the TagPro SoundPacks userscript",
+    
+    
+    "name"          :   "Hjalpa Stream Sounds",
+    "author"        :   "Hjalpa",
+    "description"   :   "Sounds from https://www.twitch.tv/hjalpa",
+
+    "sounds" : {
+    
+        "drop"          : {"source" : "https://github.com/Hjalpa/soundpack/drop.mp3",
+                           "volume" : 1 },
+        "teleport"      : {"source" : "https://github.com/Hjalpa/soundpack/teleport.mp3",
+                           "volume" : 1 },
+        "pop"           : {"source" : "https://github.com/Hjalpa/soundpack/pop.mp3",
+                           "volume" : 1 },
+        "friendlyalert" : {"source" : "https://github.com/Hjalpa/soundpack/friendlyalert.mp3",
+                           "volume" : 1 },
+        "click"         : {"source" : "https://github.com/Hjalpa/soundpack/click.mp3",
+                           "volume" : 1 },
+        "friendlydrop"  : {"source" : "https://github.com/Hjalpa/soundpack/friendlydrop.mp3",
+                           "volume" : 1 },
+        "countdown"     : {"source" : "https://github.com/Hjalpa/soundpack/countdown.mp3",
+                           "volume" : 1 },
+        "alertlong"     : {"source" : "https://github.com/Hjalpa/soundpack/alertlong.mp3",
+                           "volume" : 1 },
+        "degreeup"      : {"source" : "https://github.com/Hjalpa/soundpack/degreeup.mp3",
+                           "volume" : 1 },
+        "cheering"      : {"source" : "https://github.com/Hjalpa/soundpack/cheering.mp3",
+                           "volume" : 1 },
+        "alert"         : {"source" : "https://github.com/Hjalpa/soundpack/alert.mp3",
+                           "volume" : 1 },
+        "burst"         : {"source" : "https://github.com/Hjalpa/soundpack/burst.mp3",
+                           "volume" : 1 },
+        "go"            : {"source" : "https://github.com/Hjalpa/soundpack/go.mp3",
+                           "volume" : 1 },
+        "explosion"     : {"source" : "https://github.com/Hjalpa/soundpack/explosion.mp3",
+                           "volume" : 1 },
+        "powerup"       : {"source" : "https://github.com/Hjalpa/soundpack/powerup.mp3",
+                           "volume" : 1 },
+        "sigh"          : {"source" : "https://github.com/Hjalpa/soundpack/sigh.mp3",
+                           "volume" : 1 }
+    
+    }
+}
